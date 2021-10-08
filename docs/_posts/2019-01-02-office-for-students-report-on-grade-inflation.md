@@ -10,16 +10,6 @@ categories:
 
 * * *
 
-
-
-**Update**, 2019-01-07: There's now also [**Part 2**](/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/) of this blog post, for those who are keen to know more!
-
-
-
-* * *
-
-
-
 Chris Parr, a journalist for [_Research Professional_](https://www.researchprofessional.com), asked me to look at a recent report, [Analysis of degree classifications over time: Changes in graduate attainment](https://www.officeforstudents.org.uk/publications/analysis-of-degree-classifications-over-time-changes-in-graduate-attainment/).  The report was published by the UK government's _Office for Students_ (OfS) on 19 December 2018, along with a headline-grabbing [press release](https://www.officeforstudents.org.uk/news-blog-and-events/press-and-media/universities-must-get-to-grips-with-spiralling-grade-inflation/):
 
 > ![ofs-screenshot](/assets/media/2019/01/ofs-screenshot-e1546435828658.png?w=600)
@@ -169,7 +159,9 @@ It is especially troubling that the OfS appears to base aspects of its regulatio
 
 * * *
 
+**Update, 7 January:** There's now also [**Part 2**](/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/) of this blog post, for those who are keen to know more!
 
+* * *
 
 © David Firth, January 2019
 
