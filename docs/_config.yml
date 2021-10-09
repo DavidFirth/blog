@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : firthcity
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -103,25 +103,27 @@ analytics:
 author:
   name             : "David Firth"
   avatar           : "/assets/media/DavidFirth2-cropped-square-300.png"
-  bio              : "Researcher in Statistics. Based at the University of Warwick, UK."
+  bio              : "Researcher in Statistics"
   location         : # "Warwick, UK"
   email            : # d.firth@warwick.ac.uk
+  twitter          : "firthcity"
+  github           : "DavidFirth"
   links:
     - # label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Homepage at U Warwick"
       icon: "fas fa-fw fa-link"
       url: "https://warwick.ac.uk/dfirth"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/firthcity"
+    - #label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/firthcity"
     - # label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DavidFirth"
+    - #label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/DavidFirth"
     - # label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
