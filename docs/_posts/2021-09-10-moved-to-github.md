@@ -6,7 +6,7 @@ title: 'This blog has now moved to GitHub'
 After about 10 years of being hosted at wordpress.com, my personal blog "Let's Look at the Figures" is now moving to GitHub.  The reasons are various, including:
 
 * I am already using _Jekyll_ with _GitHub Pages_ for my other blog at [alt-3.uk](https://alt-3.uk) (about maths and football leagues) --- and I like it! The simplicity of static pages maintained through a collection of plain-text files is very appealing to me.
-* It is part of a more general long-term effort to simplify my digital life, which has become overwhelmingly complicated in recent years.
+* It is part of an effort to simplify my digital life, which has become overwhelmingly complicated in recent years.
 
 The stable URL has now changed to [DavidFirth.github.io/blog](https://DavidFirth.github.io/blog). 
 
