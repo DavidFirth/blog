@@ -12,7 +12,7 @@ categories:
 
 Chris Parr, a journalist for [_Research Professional_](https://www.researchprofessional.com), asked me to look at a recent report, [Analysis of degree classifications over time: Changes in graduate attainment](https://www.officeforstudents.org.uk/publications/analysis-of-degree-classifications-over-time-changes-in-graduate-attainment/).  The report was published by the UK government's _Office for Students_ (OfS) on 19 December 2018, along with a headline-grabbing [press release](https://www.officeforstudents.org.uk/news-blog-and-events/press-and-media/universities-must-get-to-grips-with-spiralling-grade-inflation/):
 
-> ![ofs-screenshot](/assets/media/2019/01/ofs-screenshot-e1546435828658.png?w=600)
+> ![ofs-screenshot](../assets/media/2019/01/ofs-screenshot-e1546435828658.png?w=600)
 
 The report uses a statistical method --- the widely used method of _logistic regression_ --- to devise a yardstick by which each English university (and indeed the English university sector as a whole) is to be measured, in terms of their tendency to award the top degree classes (_First Class_ and _Upper Second Class_ honours degrees).  The OfS report looks specifically at the extent to which apparent "grade inflation" in recent years can be explained by changes in student-attribute data available to OfS (which include grades in pre-university qualifications, and also some other characteristics such as gender and ethnicity).
 
@@ -159,7 +159,7 @@ It is especially troubling that the OfS appears to base aspects of its regulatio
 
 * * *
 
-**Update, 7 January:** There's now also [**Part 2**](/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/) of this blog post, for those who are keen to know more!
+**Update, 7 January:** There's now also [**Part 2**](../2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/) of this blog post, for those who are keen to know more!
 
 * * *
 
