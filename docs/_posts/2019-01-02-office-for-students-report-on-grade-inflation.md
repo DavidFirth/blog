@@ -166,4 +166,4 @@ It is especially troubling that the OfS appears to base aspects of its regulatio
 © David Firth, January 2019
 
 **To cite this entry:**
-Firth, D (2019). Office for Students report on "grade inflation". Weblog entry at URL [https://DavidFirth.github.io/blog/2019/01/02/office-for-students-report-on-grade-inflation](/2019/01/02/office-for-students-report-on-grade-inflation)
+Firth, D (2019). Office for Students report on "grade inflation". Weblog entry at URL [https://DavidFirth.github.io/blog/2019/01/02/office-for-students-report-on-grade-inflation](/blog/2019/01/02/office-for-students-report-on-grade-inflation)
