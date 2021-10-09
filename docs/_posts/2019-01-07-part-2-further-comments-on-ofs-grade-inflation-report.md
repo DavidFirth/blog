@@ -12,39 +12,37 @@ categories:
 
 
 
-**Update**, 2019-01-07: I am pleased to say that the online media article that I complained about in Sec 1 below has now been amended by its author(s), to correct the false attributions.  I am grateful to Chris Parr for helping to sort this out.
-
-**Update**, 2021-09-09: Just to note that the "Part 3" never got written! As well as having too much else to do in 2019, I lost all confidence that any further work by me on this topic would actually influence anything.
+**Update, 7 January:** I am pleased to say that the online media article that I complained about in Sec 1 below has now been amended by its author(s), to correct the false attributions.  I am grateful to Chris Parr for helping to sort this out.
 
 
 * * *
 
 
 
-In [my post a few days ago](/2019/01/02/office-for-students-report-on-grade-inflation/) (which I'll now call "Part 1") I looked at aspects of the statistical methods used in a report by the UK government's _Office for Students_, about "grade inflation" in English universities.  This second post continues on the same topic.
+In [my post a few days ago](/blog/2019/01/02/office-for-students-report-on-grade-inflation/) (which I'll now call "Part 1") I looked at aspects of the statistical methods used in a report by the UK government's _Office for Students_, about "grade inflation" in English universities.  This second post continues on the same topic.
 
 In this _Part 2_ I will do two things:
 
-1. Set the record straight, in relation to some incorrect reporting of [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/) in the specialist media.
+1. Set the record straight, in relation to some incorrect reporting of [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/) in the specialist media.
 2. Suggest a new statistical method that (in my opinion) is better than the one used in the OfS report.
 
 
-The more substantial stuff will be the second bullet there (and of course I wish I didn't need to do the first bullet at all).   In this post (at section 2 below) I will just _outline_ a better method, by using the same artificial example that I gave in [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/): hopefully that will be enough to give the general idea, to both specialist and non-specialist readers.  Later I will follow up (in my intended _Part 3_) with a more detailed description of the suggested better method; that _Part 3_ post will be suitable mainly for readers with more specialist background in Statistics.
+The more substantial stuff will be the second bullet there (and of course I wish I didn't need to do the first bullet at all).   In this post (at section 2 below) I will just _outline_ a better method, by using the same artificial example that I gave in [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/): hopefully that will be enough to give the general idea, to both specialist and non-specialist readers.  Later I will follow up (in my intended _Part 3_) with a more detailed description of the suggested better method; that _Part 3_ post will be suitable mainly for readers with more specialist background in Statistics.
 
 
 ## 1. For the record
 
 
-I am aware of two places where the analysis I gave in [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/) has been reported:
+I am aware of two places where the analysis I gave in [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/) has been reported:
 
 
 * At [https://www.researchprofessional.com/0/rr/he/agencies/ofs/2019/OfS-grade-inflation-analysis-not-fit-for-purpose--says-expert.html](https://www.researchprofessional.com/0/rr/he/agencies/ofs/2019/OfS-grade-inflation-analysis-not-fit-for-purpose--says-expert.html), an article entitled "OfS grade inflation analysis not fit for purpose, says expert"
 * At [https://www.researchresearch.com/news/article/?articleId=1379083](https://www.researchresearch.com/news/article/?articleId=1379083), which seems to be a straight copy of the same article (I have not checked in detail).
 
 
-The first link there is to a paywalled site, I think. The second one appears to be in the public domain. I do not recommend following either of those links, though! If anyone reading this wants to know about what I wrote in _Part 1_, then my advice is just to read [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/) directly.
+The first link there is to a paywalled site, I think. The second one appears to be in the public domain. I do not recommend following either of those links, though! If anyone reading this wants to know about what I wrote in _Part 1_, then my advice is just to read [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/) directly.
 
-Here I want to mention three specific ways in which **that article misrepresents what I wrote in [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/)**. Points 2 and 3 here are the more important ones, I think (but #1 is also slightly troubling, to me):
+Here I want to mention three specific ways in which **that article misrepresents what I wrote in [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/)**. Points 2 and 3 here are the more important ones, I think (but #1 is also slightly troubling, to me):
 
 
 1. The article refers to my blog post as **"a review commissioned by HE"**. The reality is that a journalist called Chris Parr had emailed me just before Christmas. In the email Chris introduced himself as "I'm a journalist at Research Fortnight", and the request he made in the email (in relation to the newly published OfS report) was "Would you or someone you know be interested in taking a look?". I had heard of _Research Fortnight_. And I was indeed interested in taking a look at the methods used in the OfS report. But until the above-mentioned article came to my attention, I had never even heard of a publication named _HE_. Possibly I am mistaken in this, but to my mind the phrase "a review commissioned by HE" indicates some kind of formal arrangement between _HE_ and me, with specified deliverables and perhaps even payment for the work. There was in fact no such "commission" for the work that I did. I merely spent some time during the Christmas break thinking about the methods used in the OfS report, and then I wrote a blog post (and told Chris Parr that I had done that). And let me repeat: I had never even heard of _HE_ (nor of the article's apparent author, which was not Chris Parr). No payment was offered or demanded. I mention all this here only in case anyone who has read that article got a wrong impression from it.
@@ -64,7 +62,7 @@ To be completely clear:
 ## 2. Towards a better (statistical) measurement model
 
 
-I have to admit that in [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/) I ran out of steam at one point, specifically where --- in response to my own question about what would be a better way than the method used in the OfS report --- I wrote "_I do not have an answer_". I could have and should have done better than that.
+I have to admit that in [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/) I ran out of steam at one point, specifically where --- in response to my own question about what would be a better way than the method used in the OfS report --- I wrote "_I do not have an answer_". I could have and should have done better than that.
 
 Below I will outline a fairly simple approach that overcomes the specific pitfall I identified in _Part 1_, i.e., the fact that measurement at too high a level of aggregation can give misleading answers. I will demonstrate my suggested new approach through the same, contrived example that I used in _Part 1_. This should be enough to convey the basic idea, I hope. [Full generality for the analysis of real data will demand a more detailed and more technical treatment of a hierarchical statistical model; I'll do that later, when I come to write _Part 3_.]
 
@@ -132,7 +130,7 @@ That's all the information in the data, about changes in the rate at which First
 
 If a combined, "sector-wide" measure of change is wanted, then the separate, stratum-specific measures need to be combined somehow.  To some extent this is arbitrary, and the choice of a combination method ought to depend on the _purpose_ of such a sector-wide measure and (especially) on the _interpretation desired_ for it.  I might find time to write more about this later in _Part 3_.
 
-For now, let me just recall what was the "sector-wide" measurement that resulted from analysis (shown in [Part 1](/2019/01/02/office-for-students-report-on-grade-inflation/)) of the above dataset using the OfS report's method.  The result obtained by that method was a sector-wide _increase_ of 7.5% in the rate at which Firsts are awarded --- which is plainly misleading in the face of data that shows substantial _decreases_ in both universities.  Whilst I do not much like the OfS Report's "compare with 2010" approach, it does have the benefit of transparency and in my "toy" example it is easy to apply to the stratified analysis:
+For now, let me just recall what was the "sector-wide" measurement that resulted from analysis (shown in [Part 1](/blog/2019/01/02/office-for-students-report-on-grade-inflation/)) of the above dataset using the OfS report's method.  The result obtained by that method was a sector-wide _increase_ of 7.5% in the rate at which Firsts are awarded --- which is plainly misleading in the face of data that shows substantial _decreases_ in both universities.  Whilst I do not much like the OfS Report's "compare with 2010" approach, it does have the benefit of transparency and in my "toy" example it is easy to apply to the stratified analysis:
 
     
     2016-17          Expected Firsts       Actual
@@ -145,7 +143,7 @@ For now, let me just recall what was the "sector-wide" measurement that resulted
 
 --- from which we could report a sector-wide decrease of 700/3000 = 23.3% in the awarding of Firsts, once student attributes are taken properly into account.  (This could be viewed as just a suitably weighted average of the 10% and 50% decreases seen in University A and University B respectively.)
 
-As before, I have [made the full _R_ code available](https://gist.github.com/DavidFirth/d2a2a82684396a928f42823cb688f58d) (as an update to my earlier _R Markdown_ document).  For those who don't use _R_, I attach here also a PDF copy of that: [grade-inflation-example.pdf](/assets/media/2019/01/grade-inflation-example.pdf)
+As before, I have [made the full _R_ code available](https://gist.github.com/DavidFirth/d2a2a82684396a928f42823cb688f58d) (as an update to my earlier _R Markdown_ document).  For those who don't use _R_, I attach here also a PDF copy of that: [grade-inflation-example.pdf](/blog/assets/media/2019/01/grade-inflation-example.pdf)
 
 
 ### 2.2  Generalising the better model: More strata, more time-points
@@ -190,14 +188,14 @@ I will aim to flesh this out a bit in a new _Part 3_ post within the next few da
 
 (The key word there is "stratified".)
 
+-----
 
+**Update, September 2021:** Just to note that the "Part 3" never got written! As well as having too much else to do in 2019, I lost all confidence that any further work by me on this topic would actually influence anything.
 
-* * *
-
-
+-----
 
 © David Firth, January 2019
 
 **To cite this entry:**
 Firth, D (2019). Part 2, further comments on OfS grade-inflation report. Weblog entry at URL 
-[https://DavidFirth.github.io/blog/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/](/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/)
+[https://DavidFirth.github.io/blog/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/](/blog/2019/01/07/part-2-further-comments-on-ofs-grade-inflation-report/)

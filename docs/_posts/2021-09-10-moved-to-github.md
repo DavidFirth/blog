@@ -10,7 +10,7 @@ After about 10 years of being hosted at wordpress.com, my personal blog "Let's L
 
 The stable URL has now changed to [DavidFirth.github.io/blog](https://DavidFirth.github.io/blog). 
 
-Some things got broken or are changed:
+Some things that broke or are changed:
 
 * The previous domain name _statgeek.net_ will soon cease to work. I can only apologise for any inconvenience that this causes to anyone. My recent retirement from paid work means that, while it's nice to have a custom domain for my blog, I can no longer thoil it.
 * All comments made on old blog posts via wordpress.com are being left behind --- they are not being copied across to GitHub with the old blog posts. Likely that would be possible, but it does not seem easy.  Those old posts and comments will still be viewable at [statgeek.wordpress.com](https://statgeek.wordpress.com), for a while at least.

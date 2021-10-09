@@ -6,16 +6,7 @@ categories:
 - USS
 ---
 
-**Update** on 16 March: After reading this post, you might perhaps be interested in some of these follow-ups:
-
-* [Latest USS proposal: Who would lose most?](/2018/03/13/latest-uss-proposal-who-would-lose-most/)
-* [USS proposals: Tail wagging the dog?](/2018/03/15/uss-proposals-tail-wagging-the-dog/)
-* [Simple maths of a fairer USS deal](/2018/03/16/simple-maths-of-a-fairer-uss-deal/)
-
------
-
-
-In this post I'll follow up on the previous one, [USS pension scheme and fairness](/2018/02/26/uss-pension-scheme-and-fairness/), in the light of this week's UCU proposals (proposals which provide a basis for renewed talks with Universities UK about the future of USS).
+In this post I'll follow up on the previous one, [USS pension scheme and fairness](/blog/2018/02/26/uss-pension-scheme-and-fairness/), in the light of this week's UCU proposals (proposals which provide a basis for renewed talks with Universities UK about the future of USS).
 
 My purpose here is to suggest that _a fairer solution_ could also be _more affordable_ --- in that it would help fund the defined-benefit section of USS, but would also reduce (and might perhaps even eliminate?) the upward pressure on employer and employee contribution rates.
 
@@ -26,7 +17,7 @@ My purpose here is to suggest that _a fairer solution_ could also be _more affor
 The following summary excerpt is taken from [https://www.ucu.org.uk/article/9364/Further-talks-agreed-in-universities-pensions-dispute](https://www.ucu.org.uk/article/9364/Further-talks-agreed-in-universities-pensions-dispute):
 
 
-> ![UCU-proposals-Feb-2018](/assets/media/2018/03/ucu-proposals-feb-2018.png)
+> ![UCU-proposals-Feb-2018](/blog/assets/media/2018/03/ucu-proposals-feb-2018.png)
 
 
 The University and College Union (UCU) deserves all of the many congratulations it is currently getting, for having produced such a proposal this week --- in particular, a proposal that has at last persuaded the employers (Universities UK) to take part in further talks about the future of USS.
@@ -43,7 +34,7 @@ Recognising this unfair distribution of the pain, and thinking about how best to
 
 The current USS setup has a slightly _progressive_ aspect, which is that the 18% employer contribution for salary over the £55k threshold pays only 12% into the member's defined-contribution (DC) pension pot.  The remaining 6% therefore helps to support the running costs of USS, and (mainly, it seems safe to presume) the defined-benefit part of USS.
 
-The suggestion I want to make here is that future USS should become _more_ progressive --- that is, USS should move further in that same, progressive direction.  (As mentioned in the [previous post](/2018/02/26/uss-pension-scheme-and-fairness/), the current USS proposal would increase that 12% figure to 13.25%, thereby making the scheme appreciably _less_ progressive.  And as I have argued in that previous post, that seems completely indefensible.)
+The suggestion I want to make here is that future USS should become _more_ progressive --- that is, USS should move further in that same, progressive direction.  (As mentioned in the [previous post](/blog/2018/02/26/uss-pension-scheme-and-fairness/), the current USS proposal would increase that 12% figure to 13.25%, thereby making the scheme appreciably _less_ progressive.  And as I have argued in that previous post, that seems completely indefensible.)
 
 The **specific suggestion**:
 
@@ -76,21 +67,25 @@ It is unclear to me, in absence of enough data to determine it, whether the 'Rob
 
 What _is_ clear to me, though, is that such a device would help eliminate the unfairness described above.  And it would, at least, _reduce_ the need for any changes in accrual or contribution rates, even if such need is not completely eliminated.
 
+-----
+
+**Update** on 16 March: After reading this post, you might perhaps be interested in some of these follow-ups:
+
+* [Latest USS proposal: Who would lose most?](/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/)
+* [USS proposals: Tail wagging the dog?](/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/)
+* [Simple maths of a fairer USS deal](/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/)
+
+-----
+
+
 © David Firth, March 2018
 
 **To cite this entry:**
-Firth, D (2018). Future USS: Robin Hood can help? Weblog entry at URL https://DavidFirth.github.io/blog/2018/03/01/future-uss-robin-hood-can-help/.
+Firth, D (2018). Future USS: Robin Hood can help? Weblog entry at URL https://DavidFirth.github.io/blog/2018/03/01/future-uss-robin-hood-can-help/
 
-
-
-* * *
-
-
-
-
+-----
 
 #### Postscript: about Robin Hood
-
 
 The legend of Robin Hood, 'feared by the bad, loved by the good', will already be known to most people who have grown up in England.  There are countless stories of Robin Hood 'persuading' the rich to part with their money, for the benefit of poorer folk.
 

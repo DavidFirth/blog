@@ -2,3 +2,17 @@
 layout: home
 author_profile: true
 ---
+
+{% if paginator.page == 1 %}
+  {% assign pinned = site.posts | where:"pinned","true" %}
+  {% if pinned.size > 0 %}
+    <h3 class="archive__subtitle" ><i class="fa fa-thumb-tack" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].pinned_posts | default: "Pinned Post" }}</h3>
+    {% for post in pinned %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% if paginator.page == 1 %}
+<center><a class="twitter-timeline" width=300 data-tweet-limit="1" data-dnt="true" data-chrome="transparent noheader"  data-theme="dark" href="https://twitter.com/firthcity"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+{% endif %}

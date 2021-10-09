@@ -8,20 +8,11 @@ categories:
 - USS
 ---
 
-**Update** on 16 March: There's now a follow-up post to this one, which gives more detail on how (mathematically) to achieve a fairer sharing-out of _whatever_ level of USS member pain might ultimately be deemed necessary.  See [Simple maths of a fairer USS deal](/2018/03/16/simple-maths-of-a-fairer-uss-deal/) (but ideally only _after_ reading the necessary background, below!).
-
-
-
-
-* * *
-
-
-
-In response to my previous post, "[Latest USS proposal: Who would lose most?](/2018/03/13/latest-uss-proposal-who-would-lose-most/)", someone asked me about doing the same calculation for the USS JNC-supported proposals from January.  For a summary of those January proposals and my comments about their fairness, please see my earlier post "[USS pension scheme and fairness](/2018/02/26/uss-pension-scheme-and-fairness/)".
+In response to my previous post, "[Latest USS proposal: Who would lose most?](/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/)", someone asked me about doing the same calculation for the USS JNC-supported proposals from January.  For a summary of those January proposals and my comments about their fairness, please see my earlier post "[USS pension scheme and fairness](/blog/2018/02/26/uss-pension-scheme-and-fairness/)".
 
 Anyway, the calculation is quite simple, and it led to the following graph.  The black curve is as in my previous post, and the red one is from the same calculation done for the January USS proposal.
 
-![lost-comparison](/assets/media/2018/03/lost-comparison.png)The red curve shows just over 5% effective loss of salary for those below the current £55.55k USS threshold, and then a fairly sharp decline to less than 2% lost at the salaries of the very highest-paid professors, managers and administrators.  Under the January proposals, higher-paid staff would contribute proportionately less to the "rescue package" for USS --- less, even, than under the March proposals.  (And if the salary axis were to be extended indefinitely, the **red curve would actually cross the zero-line**: that's because in the January proposals the defined-contribution rate from employers would actually have _increased_ from (max) 13% to 13.25%.)
+![lost-comparison](/blog/assets/media/2018/03/lost-comparison.png)The red curve shows just over 5% effective loss of salary for those below the current £55.55k USS threshold, and then a fairly sharp decline to less than 2% lost at the salaries of the very highest-paid professors, managers and administrators.  Under the January proposals, higher-paid staff would contribute proportionately less to the "rescue package" for USS --- less, even, than under the March proposals.  (And if the salary axis were to be extended indefinitely, the **red curve would actually cross the zero-line**: that's because in the January proposals the defined-contribution rate from employers would actually have _increased_ from (max) 13% to 13.25%.)
 
 In terms of unequal sharing of the "pain", then, the January proposal was even worse than the March one.
 
@@ -82,7 +73,7 @@ I had made a specific suggestion along these lines, in this earlier post:
 
 
 	
-  * [Future USS: Robin Hood can help?](/2018/03/01/future-uss-robin-hood-can-help/)
+  * [Future USS: Robin Hood can help?](/blog/2018/03/01/future-uss-robin-hood-can-help/)
 
 
 The details of any solution that satisfies the "**percent loss roughly constant, or even increasing**" requirement clearly would need to depend on data that's not so widely available (mainly, the distribution of all salaries for USS members).
@@ -125,17 +116,15 @@ In essence:
 * salary under £55.55k would lose the defined benefit (that's the 19/75 part) and the 1% "match", and in its place would get 21.25% as defined contribution.  The sum of these parts is the computed loss _r2_.
 * salary over £55.55k would _gain_ the difference between potential 13% employer contribution and the proposed new rate of 13.25% (that's the negative value _r3_ in the code).
 
-
-
-
-
 * * *
 
+**Update, 16 March:** There's now a follow-up post to this one, which gives more detail on how (mathematically) to achieve a fairer sharing-out of _whatever_ level of USS member pain might ultimately be deemed necessary.  See [Simple maths of a fairer USS deal](/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/) (but ideally only _after_ reading the necessary background, above!).
 
+* * *
 
 © David Firth, March 2018
 
 **To cite this entry:**
-Firth, D (2018). USS proposals: Tail wagging the dog? Weblog entry at URL [https://DavidFirth.github.io/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/](/2018/03/15/uss-proposals-tail-wagging-the-dog/)
+Firth, D (2018). USS proposals: Tail wagging the dog? Weblog entry at URL [https://DavidFirth.github.io/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/](/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/)
 
 

@@ -18,7 +18,7 @@ Here is the link to the preprint on arXiv.org:
 
 The paper has associated online [supplementary material](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/varin-cattelan-firth-supplementary-material.zip) (zip file, 0.4MB) comprising datasets used in the paper, and full R code to help potential discussants and other readers to replicate and/or experiment with the reported analyses.
 
-[![fig4](/assets/media/2015/04/fig4.png?w=278)](/assets/media/2015/04/fig4.png)
+[![fig4](/blog/assets/media/2015/04/fig4.png?w=278)](/blog/assets/media/2015/04/fig4.png)
 
 
 Figure 4 from the paper (a ranking of statistics journals based on the Bradley-Terry model)

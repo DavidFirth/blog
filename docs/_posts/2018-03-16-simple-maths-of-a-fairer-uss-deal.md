@@ -8,11 +8,7 @@ categories:
 - USS
 ---
 
-* * *
-
-
-
-In [yesterday's post](/2018/03/15/uss-proposals-tail-wagging-the-dog/) I showed a graph, followed by some comments to suggest that future USS proposals with a flatter (or even increasing) "percent lost" curve would be fairer (and, as I argued earlier in my [Robin Hood post](/2018/03/01/future-uss-robin-hood-can-help/), more affordable at the same time).
+In [yesterday's post](/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/) I showed a graph, followed by some comments to suggest that future USS proposals with a flatter (or even increasing) "percent lost" curve would be fairer (and, as I argued earlier in my [Robin Hood post](/blog/2018/03/01/future-uss-robin-hood-can-help/), more affordable at the same time).
 
 It's now clear to me that my suggestion seemed a bit cryptic to many (maybe most!) who read it yesterday.  So here I will try to show more specifically how to achieve a _flat_ curve.  (This is not because I think flat is optimal.  It's mainly because it's easy to explain.  As already mentioned, it might not be a bad idea if the curve was actually to _increase_ a bit as salary levels increase; that would allow those with higher salaries to feel happy that they are doing their bit towards the sustainable future of USS.)
 
@@ -22,7 +18,7 @@ It's now clear to me that my suggestion seemed a bit cryptic to many (maybe most
 
 The graph below is the same as yesterday's but with a flat (blue, dashed) line drawn at the level of 4% lost across all salary levels.
 
-![lost-with-4pc-line](/assets/media/2018/03/lost-with-4pc-line.png)
+![lost-with-4pc-line](/blog/assets/media/2018/03/lost-with-4pc-line.png)
 
 I drew the line at 4% here just as an example, to illustrate the calculation.  The _actual_ level needed --- i.e, the "affordable" level for universities ---  would need to be determined by negotiation; but the maths is essentially the same, whatever the level (within reason).
 
@@ -39,7 +35,7 @@ I will assume here the same _adjustable parameters_ that UUK and UCU appear to h
 
 I will assume also, as all the recent proposals do, that the 1% USS match possibility is lost to all members.
 
-Then, to get to 4% lost across the board, we need simply to solve the following linear equations.  (To see where these came from, please see [this earlier post](/2018/03/13/latest-uss-proposal-who-would-lose-most/).)
+Then, to get to 4% lost across the board, we need simply to solve the following linear equations.  (To see where these came from, please see [this earlier post](/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/).)
 
 For **salary up to _T_**:
 
@@ -257,4 +253,4 @@ Here are three examples of its use (copied from an interactive session in _R_):
 © David Firth, March 2018
 
 **To cite this entry:**
-Firth, D (2018). Simple maths of a fairer USS deal. Weblog entry at URL [https://DavidFirth.github.io/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/](/2018/03/16/simple-maths-of-a-fairer-uss-deal/)
+Firth, D (2018). Simple maths of a fairer USS deal. Weblog entry at URL [https://DavidFirth.github.io/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/](/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/)

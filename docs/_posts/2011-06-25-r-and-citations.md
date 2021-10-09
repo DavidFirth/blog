@@ -732,9 +732,9 @@ The graph below shows the citations found within each year since 1998.
 © David Firth, June 2011
 
 **To cite this entry:**
-Firth, D (2011). R and citations. Weblog entry at URL [https://DavidFirth.github.io/blog/2011/06/25/r-and-citations/](/2011/06/25/r-and-citations/).
+Firth, D (2011). R and citations. Weblog entry at URL [https://DavidFirth.github.io/blog/2011/06/25/r-and-citations/](/blog/2011/06/25/r-and-citations/).
 
-[![bb](/assets/media/2011/06/citations1.png?maxWidth=300)](/assets/media/2011/06/citations1.png?maxWidth=800&maxHeight=600)
+[![bb](/blog/assets/media/2011/06/citations1.png?maxWidth=300)](/blog/assets/media/2011/06/citations1.png?maxWidth=800&maxHeight=600)
 
 The graph shows the citations found within each year since 1998.
 

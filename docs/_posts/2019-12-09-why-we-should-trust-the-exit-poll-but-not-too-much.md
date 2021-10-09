@@ -6,40 +6,6 @@ categories:
 - UK parochial
 ---
 
------
-
-**Update**, 2019-12-14: In the text below, written before the election on 12 December, I wrote:
-
-
-
-
-<blockquote>
-...the exit poll ought to be expected to predict with an error in roughly the 5–15 seats range (for the main parties). Sometimes the error will be smaller than that (as seen in 2005, 2010 and 2017)...
-</blockquote>
-
-
-
-**The 2019 election saw, for the Conservative party total, an exit-poll error of just 3 seats**; and so in the statement quoted above we could now say instead "as seen in 2005, 2010, 2017 and 2019".
-
-I also wrote:
-
-
-
-
-<blockquote>
-...the super-accurate predictions seen in 2005, 2010 and even 2017 were unwarrantably accurate...
-</blockquote>
-
-
-
-and that can now be amended to "the super-accurate predictions seen in 2005, 2010, 2017 and 2019 were unwarrantably accurate".  I still do believe this to be the case.
-
-
-
------
-
-
-
 I look ahead a few days here, to 10pm on UK General Election day. Polling stations will have just closed, and major broadcasters (BBC, ITV and Sky) will simultaneously announce the findings of their jointly-commissioned exit poll — the headline being always the predicted number of seats for the (predicted) largest party in the newly elected House of Commons.
 
 The exit poll is by now a big part of election day/night. The expense of it is justified by the fact that the broadcasters get their alltime largest current-affairs viewing, listening and website-visiting figures during the first couple of hours after polls close on a General Election night — but in that _specific_ couple of hours, almost all of the votes remain uncounted still. So the broadcasters need something for TV/radio/web commentators and on-air politicians to talk about in that first couple of hours; and the exit poll is a major part of that.
@@ -60,14 +26,28 @@ For the full story of how well the exit poll has performed at successive UK gene
 
 But **the main point here** is this: While better methodology has radically improved the chances of an accurate prediction from the exit poll at a UK General Election, **the super-accurate predictions seen in 2005, 2010 and even 2017 were unwarrantably accurate**. Such an astounding level of accuracy is not guaranteed by the statistical methods used, and it definitely **should not be expected every time!**
 
+-----
 
+**Update, 14 December 2019** In the text above, written before the election on 12 December, I wrote:
 
-* * *
+<blockquote>
+...the exit poll ought to be expected to predict with an error in roughly the 5–15 seats range (for the main parties). Sometimes the error will be smaller than that (as seen in 2005, 2010 and 2017)...
+</blockquote>
 
+**The 2019 election saw, for the Conservative party total, an exit-poll error of just 3 seats**; and so in the statement quoted above we could now say instead "as seen in 2005, 2010, 2017 and 2019".
 
+I also wrote:
+
+<blockquote>
+...the super-accurate predictions seen in 2005, 2010 and even 2017 were unwarrantably accurate...
+</blockquote>
+
+and that can now be amended to "the super-accurate predictions seen in 2005, 2010, 2017 and 2019 were unwarrantably accurate".  I still do believe this to be the case.
+
+-----
 
 © David Firth, December 2019
 
 **To cite this entry:**
 Firth, D (2019). Why we should trust the exit poll --- but not too much! Weblog entry at URL 
-[https://DavidFirth.github.io/blog/2019/12/09/why-we-should-trust-the-exit-poll-but-not-too-much/](/2019/12/09/why-we-should-trust-the-exit-poll-but-not-too-much/)
+[https://DavidFirth.github.io/blog/2019/12/09/why-we-should-trust-the-exit-poll-but-not-too-much/](/blog/2019/12/09/why-we-should-trust-the-exit-poll-but-not-too-much/)

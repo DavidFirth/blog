@@ -12,7 +12,7 @@ After the exams are finished each year, we promise our students to look carefull
 
 The challenge in this is to separate module difficulty from student ability: we need to be able to tell the difference between (for example) a hard module and a module that was chosen by weaker-than-average students.  This necessitates analysis of the exam marks for _all modules together_, rather than separately.
 
-The data to be analysed are each student's score (expressed as a percentage) in each module they took.  It is convenient to arrange those scores in a 2-way table, whose rows are indexed by student IDs, and whose columns correspond to all the different possible modules that were taken.  The task is then to analyse the (typically incomplete) 2-way table, to determine a numerical "module effect" for each module (a relatively high number for each module that was found relatively "easy", and lower numbers for modules that were relatively "hard".
+The data to be analysed are each student's score (expressed as a percentage) in each module they took.  It is convenient to arrange those scores in a 2-way table, whose rows are indexed by student IDs, and whose columns correspond to all the different possible modules that were taken.  The task is then to analyse the (typically incomplete) 2-way table, to determine a numerical "module effect" for each module (a relatively high number for each module that was found relatively "easy", and lower numbers for modules that were relatively "hard").
 
 A standard method for doing this robustly (i.e., in such a way that the analysis is not influenced too strongly by the performance of a small number of students) is the clever _[median polish](https://en.wikipedia.org/wiki/Median_polish)_ method due to J W Tukey. My university department has been using median polish now for several years, to identify any strong "module effects" that ought to be taken into account when assessing each student's overall performance in their degree course.
 
@@ -168,4 +168,4 @@ For now, here are my prototype functions in case anyone else wants to play with 
 © David Firth, April 2019
 
 **To cite this entry:**
-Firth, D (2019). Robust measurement from a 2-way table. Weblog entry at URL [https://DavidFirth.github.io/blog/2019/04/26/robust-measurement-from-a-2-way-table/](/2019/04/26/robust-measurement-from-a-2-way-table/)
+Firth, D (2019). Robust measurement from a 2-way table. Weblog entry at URL [https://DavidFirth.github.io/blog/2019/04/26/robust-measurement-from-a-2-way-table/](/blog/2019/04/26/robust-measurement-from-a-2-way-table/)

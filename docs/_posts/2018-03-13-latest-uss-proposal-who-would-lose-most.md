@@ -8,19 +8,6 @@ categories:
 - USS
 ---
 
-**Update** on 16 March: After reading this post, you might perhaps be interested in these follow-ups:
-
-
-* [USS proposals: Tail wagging the dog?](/2018/03/15/uss-proposals-tail-wagging-the-dog/)
-* [Simple maths of a fairer USS deal](/2018/03/16/simple-maths-of-a-fairer-uss-deal/)
-
-
-**Update, 14 March:** Some details in the original post yesterday were not quite right, and so the graph/numbers that appear in the now-corrected version below are different in detail from yesterday's.  But the overall picture is unchanged.  (If you really want to know about those changes in the detail, please see my note in Appendix 2 at the bottom of the post about that.) 
-
------
-
-
-
 Yesterday (March 12th) the UUK/UCU negotiations at ACAS concluded with an [agreement](https://www.ucu.org.uk/media/9300/Agreement-reached-between-UCU-and-UUK-under-the-auspices-of-ACAS/pdf/UCU_UUK_agreement_at_ACAS_12_March_Final.pdf) document.
 
 In this post I'll look at the numbers in those proposed interim changes to the Universities Superannuation Scheme, to work out how much money would effectively be lost by USS members at each salary level.
@@ -38,7 +25,7 @@ The effective marginal rates at which money is lost by members are (as calculate
 
 This translates into the following relationship between salary and the percentage of total salary lost:
 
-![lost](/assets/media/2018/03/lost1.png)
+![lost](/blog/assets/media/2018/03/lost1.png)
 
 The two "kinks" in that graph reflect the discontinuities in marginal rates, at £42k and at £55.55k.
 
@@ -52,8 +39,8 @@ Just here, though, let me again comment on how **unfair** this "remedy" would be
 
 
 
-* [USS pension scheme and fairness](/2018/02/26/uss-pension-scheme-and-fairness/)
-* [Future USS: Robin Hood can help?](/2018/03/01/future-uss-robin-hood-can-help/)
+* [USS pension scheme and fairness](/blog/2018/02/26/uss-pension-scheme-and-fairness/)
+* [Future USS: Robin Hood can help?](/blog/2018/03/01/future-uss-robin-hood-can-help/)
 
 
 
@@ -148,10 +135,24 @@ Relating to salary above the current £55.55k threshold, the loss would be limit
 
 I have reproduced the full calculation here, with code, because I found the result of the calculation so shocking!  If anyone reading this thinks I have made a mistake in the calculation, please do let me know. If it **is** correct --- and right now I have no reason to suspect otherwise --- then I confess I'm alarmed that this is actually being proposed as a potential solution, even as an _interim_ solution for the next 3 years, to the perceived problems with USS.  It shakes my faith in those who have been involved in negotiating it.  With seemingly intelligent people on both sides of the table, how could they possibly come up with something as bad as this?
 
+-----
+
+
+**Update, 14 March:** Some details in the original post yesterday were not quite right, and so the graph/numbers that appear in the now-corrected version above are different in detail from yesterday's.  But the overall picture is unchanged.  (If you really want to know about those changes in detail, please see my note in Appendix 2 at the bottom of the post about that.)
+
+-----
+
+**Update, 16 March:** After reading this post, you might perhaps be interested in these follow-ups:
+
+* [USS proposals: Tail wagging the dog?](/blog/2018/03/15/uss-proposals-tail-wagging-the-dog/)
+* [Simple maths of a fairer USS deal](/blog/2018/03/16/simple-maths-of-a-fairer-uss-deal/)
+
+-----
+
 © David Firth, March 2018
 
 **To cite this entry:** Firth, D (2018). Latest USS proposal: Who would lose most?  Weblog entry at URL 
-[https://DavidFirth.github.io/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/](/2018/03/13/latest-uss-proposal-who-would-lose-most/).
+[https://DavidFirth.github.io/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/](/blog/2018/03/13/latest-uss-proposal-who-would-lose-most/).
 
 
 

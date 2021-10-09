@@ -7,7 +7,7 @@ categories:
 - UK parochial
 ---
 
-> [![Spiegelhalter-Twitter-2017-06-09](/assets/media/2017/06/spiegelhalter-twitter-2017-06-091.png)
+> [![Spiegelhalter-Twitter-2017-06-09](/blog/assets/media/2017/06/spiegelhalter-twitter-2017-06-091.png)
 ](https://twitter.com/d_spiegel/status/873082399726358528)
 
 It has been a while since I posted anything here, but I can't resist this one.
@@ -40,4 +40,4 @@ That's the version of R that I had at the time of the 2005 General Election, whe
 As suggested by that kind tweet reproduced above from the RSS President, David Spiegelhalter: Thursday's performance was quite a triumph for the practical art and science of Statistics.  [And I think I _am_ allowed to say this, since on this occasion I was not even there!  The credit for Thursday's work goes to Jouni Kuha, along with John Curtice, Steve Fisher and the rest of the [academic team of analysts](https://www.bloomberg.com/news/articles/2017-06-08/how-the-secret-general-election-2017-exit-poll-is-produced) who worked in the [secret exit-poll "bunker"](http://money.cnn.com/2017/06/08/news/exit-poll-uk-general-election/index.html) on 8 June.]
 
 
-> [![Power-to-the-nerds-2017-06-08](/assets/media/2017/06/power-to-the-nerds-2017-06-08.png)](https://twitter.com/firthcity/status/872911999549812736)
+> [![Power-to-the-nerds-2017-06-08](/blog/assets/media/2017/06/power-to-the-nerds-2017-06-08.png)](https://twitter.com/firthcity/status/872911999549812736)
