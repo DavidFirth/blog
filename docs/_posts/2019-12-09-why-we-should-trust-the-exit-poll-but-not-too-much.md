@@ -22,7 +22,7 @@ More typically the exit poll ought to be expected to predict with an error in ro
 
 For the full story of how well the exit poll has performed at successive UK general elections, and lots of background material: see the online [**exit poll explainer**](https://warwick.ac.uk/exitpolling).
 
-(And for a bit more insight into the history of my own involvement in the exit poll, see [this recent Twitter thread](https://twitter.com/firthcity/status/1197431243647926272).)
+(And for a bit more insight into the history of my own involvement in the exit poll, see [this recent Twitter thread](https://twitter.com/firthstat/status/1197431243647926272).)
 
 But **the main point here** is this: While better methodology has radically improved the chances of an accurate prediction from the exit poll at a UK General Election, **the super-accurate predictions seen in 2005, 2010 and even 2017 were unwarrantably accurate**. Such an astounding level of accuracy is not guaranteed by the statistical methods used, and it definitely **should not be expected every time!**
 
