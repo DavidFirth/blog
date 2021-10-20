@@ -143,7 +143,7 @@ J COMPUTATIONAL GRAP 5 : 299 1996
 <td align="RIGHT" >396
 </td>
 
-<td align="RIGHT" >**3579**
+<td align="RIGHT" ><b>3579</b>
 </td>
 </tr>
 <tr >
@@ -191,7 +191,7 @@ R LANG ENV STAT COMP : 2003
 <td align="RIGHT" >14
 </td>
 
-<td align="RIGHT" >**388**
+<td align="RIGHT" ><b>388</b>
 </td>
 </tr>
 <tr >
@@ -239,7 +239,7 @@ R LANG ENV STAT COMP : 2004
 <td align="RIGHT" >126
 </td>
 
-<td align="RIGHT" >**1601**
+<td align="RIGHT" ><b>1601</b>
 </td>
 </tr>
 <tr >
@@ -287,7 +287,7 @@ R LANG ENV STAT COMP : 2005
 <td align="RIGHT" >366
 </td>
 
-<td align="RIGHT" >**2292**
+<td align="RIGHT" ><b>2292</b>
 </td>
 </tr>
 <tr >
@@ -335,7 +335,7 @@ LANG ENV STAT COMP : 2005
 <td align="RIGHT" >10
 </td>
 
-<td align="RIGHT" >**195**
+<td align="RIGHT" ><b>195</b>
 </td>
 </tr>
 <tr >
@@ -383,7 +383,7 @@ R LANG ENV STAT COMP : 2006
 <td align="RIGHT" >461
 </td>
 
-<td align="RIGHT" >**2459**
+<td align="RIGHT" ><b>2459</b>
 </td>
 </tr>
 <tr >
@@ -431,7 +431,7 @@ R LANG ENV STAT COMP : 2007
 <td align="RIGHT" >733
 </td>
 
-<td align="RIGHT" >**2501**
+<td align="RIGHT" ><b>2501</b>
 </td>
 </tr>
 <tr >
@@ -479,7 +479,7 @@ R LANG ENV STAT COMP : 2008
 <td align="RIGHT" >1906
 </td>
 
-<td align="RIGHT" >**3516**
+<td align="RIGHT" ><b>3516</b>
 </td>
 </tr>
 <tr >
@@ -527,7 +527,7 @@ LANG ENV STAT COMP : 2008
 <td align="RIGHT" >44
 </td>
 
-<td align="RIGHT" >**72**
+<td align="RIGHT" ><b>72</b>
 </td>
 </tr>
 <tr >
@@ -575,7 +575,7 @@ R LANG ENV STAT COMP : 2009
 <td align="RIGHT" >1363
 </td>
 
-<td align="RIGHT" >**1535**
+<td align="RIGHT" ><b>1535</b>
 </td>
 </tr>
 <tr >
@@ -623,7 +623,7 @@ R LANG ENV STAT COMP : 2010
 <td align="RIGHT" >205
 </td>
 
-<td align="RIGHT" >**205**
+<td align="RIGHT" ><b>205</b>
 </td>
 </tr>
 <tr >
@@ -671,7 +671,7 @@ R LANG ENV STAT COMP :
 <td align="RIGHT" >93
 </td>
 
-<td align="RIGHT" >**262**
+<td align="RIGHT" ><b>262</b>
 </td>
 </tr>
 <tr style="font-weight:bold;" >
