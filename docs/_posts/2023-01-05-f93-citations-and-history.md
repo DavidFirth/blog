@@ -1,13 +1,13 @@
 ---
-slug: no-longer-cited
-title: My best known work is no longer cited?
+slug: f93-citations-and-history
+title: My best known work: Fading citations, and a bit of history
 categories:
 - Citations
 ---
 
-_This will be a rather egocentric post --- for which, apologies in advance!  (It's a sign of age, I suspect.)_
+_This will be the second egocentric post in succession --- for which, apologies in advance!  (It's a sign of age, I suspect.)_
 
-This year will see the 30th anniversary of the publication of my most-cited research paper.  I'll write a few notes below (section 2) about the paper's history.  But first, to the main point of this blog post: something that seems odd in the recent citation data.
+This year will see the 30th anniversary of the publication of my most-cited research paper.  I'll write a few notes below (section 2) about the paper's history.  But first, to the main reason for this blog post: something that seems odd in the recent citation data.
 
 # 1. Why does citation growth seem to be slowing?
 
@@ -15,7 +15,7 @@ Here is today's view of the paper in _Google Scholar_:
 
 [![scholar-screenshot](/blog/assets/media/2023/01/scholar_screenshot.png?w=278)](/blog/assets/media/2023/01/scholar_screenshot.png)
 
-The graph there indicates that my 1993 paper actually **is** still cited --- Google Scholar shows a steadily increasing annual count, reaching 494 citations in calendar year 2021. The count shown for 2022 is currently 491 citations, and I suppose that that figure might grow a bit in the early days of 2023 as Google Scholar catches up.  But it does look as though the growth in citations is slowing down a bit.
+The graph there indicates that my 1993 paper is still cited --- Google Scholar shows a steadily increasing annual count, reaching 494 citations in calendar year 2021. The count shown for 2022 is currently 491 citations, and I suppose that that figure might grow a bit in the early days of 2023 as Google Scholar catches up.  But it does look as though the growth in citations is slowing down a bit.
 
 Why does this seem odd?  Well, I know from interacting with other researchers (at conferences for example) that usage of the method from my 1993 paper is still on the increase, as is the _range_ of research disciplines in which it gets used.  So the puzzle is: why does the _Google Scholar_ citation count no longer seem to show sustained growth in the method's use?
 
@@ -26,7 +26,6 @@ If that's the reality, then I suppose I ought to be happy about it. I am guessin
 To see if there is any concrete evidence for what I had been told at the recent conference, I took a quick look today at the data for the current year, 2023. It's actually only the 5th day of 2023 today, so there is not too much data --- a big advantage!  (While more data would likely yield a more reliable analysis, the fact is that much more data would have taken much more time to process, and that would have been prohibitive for me.)
 
 ### The 2023 data, as at 5 January
-
 Google Scholar records 7 citations of my 1993 paper so far, in the first 5 days of 2023.
 
 But a Google Scholar search for any papers whose text includes the words "Firth" and "logistic" finds 10 papers published in 2023 to date. All ten of those papers do indeed use the method that was developed in my 1993 paper.  But only two of the ten papers actually contain a citation to my published work (they both cite the 1993 paper, so they are included among the 7 mentioned above). The remaining eight papers are "non-citing": they all describe their use of "Firth's logistic regression" or "logistic regression with the Firth procedure" or suchlike, but with no reference provided to the published source of the method.
