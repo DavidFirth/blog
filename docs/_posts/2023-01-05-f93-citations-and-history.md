@@ -1,6 +1,6 @@
 ---
 slug: f93-citations-and-history
-title: My best known work: Fading citations, and a bit of history
+title: My best known work, fading citations and a bit of history
 categories:
 - Citations
 ---
@@ -78,3 +78,10 @@ Most of the applications seen in other disciplines have been in the context of b
 
 > Kosmidis, I & Firth, D (2021). Jeffreys-prior penalty, finiteness and shrinkage in binomial-response generalized linear models. [Biometrika, 108(1), 71--82](https://doi.org/10.1093/biomet/asaa052).
 
+-----
+
+© David Firth, January 2023
+
+**To cite this entry:**
+Firth, D (2023).  My best known work, fading citations and a bit of history.  Weblog entry at URL
+[https://DavidFirth.github.io/blog/2023/01/05/f93-citations-and-history/](/blog/2023/01/05/f93-citations-and-history/)
