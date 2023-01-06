@@ -1,0 +1,34 @@
+Google Scholar search for "Firth logistic"
+
+Search results as at 5 Jan 2023.
+Ten hits, of which only the first two (labelled *) cite the source publication Firth (1993):
+
+* Rantala, E. S., Parrozzani, R., Hernberg, M. M., Chiarion-Sileni, V., Kivelä, T. T., & Midena, E. (2023). Determinants of Long-Term Survival in Metastatic Choroidal and Ciliary Body Melanoma. American Journal of Ophthalmology, 246, 258-272.
+https://doi.org/10.1016/j.ajo.2022.10.017
+
+* Nakajima, Y., Nemoto, D., Nemoto, T., Takahata, Y., Aizawa, M., Utano, K., ... & Togashi, K. (2023). Short‐term outcomes of patients undergoing endoscopic submucosal dissection for colorectal lesions. DEN open, 3(1), e136.
+https://doi.org/10.1002/deo2.136
+
+Godoy, L. C., Farkouh, M. E., Austin, P. C., Shah, B. R., Qiu, F., Sud, M., ... & Ko, D. T. (2023). Predicting left main stenosis in stable ischemic heart disease using logistic regression and boosted trees. American Heart Journal, 256, 117-127.
+https://doi.org/10.1016/j.ahj.2022.11.004
+
+Bonfiglio, F., Lasorsa, V. A., Cantalupo, S., D'Alterio, G., Aievola, V., Boccia, A., ... & Capasso, M. (2023). Inherited rare variants in homologous recombination and neurodevelopmental genes are associated with increased risk of neuroblastoma. Ebiomedicine, 87, 104395.
+https://doi.org/10.1016/j.ebiom.2022.104395
+
+Ooi, J. W. L., Ng, S. Y., Khor, C. C., Chong, M. C., Tay, C. H., Koh, H. X., & Tan, T. J. (2023). Service evaluation of radiographer-led vetting and protocoling of Computed Tomography (CT) scan requests in a Singapore public healthcare institution. Radiography, 29(1), 139-144.
+https://doi.org/10.1016/j.radi.2022.10.011
+
+Mongkolpun, S., Roopsawang, I., & Aree-Ue, S. (2023). Prevalence of Urinary Tract Infection and Health Outcomes in Older Adults Undergoing Hip Surgery: A Prospective Study. Pacific Rim International Journal of Nursing Research, 27(1), 19-33.
+https://he02.tci-thaijo.org/index.php/PRIJNR/article/view/260330
+
+Singh, S. R., Cronin, C. E., Conley, C., Lenhart, M., & Franz, B. (2023). Equity as a Guiding Theme in Hospitals’ Community Health Needs Assessments. American Journal of Preventive Medicine, 64(1), 26-32.
+https://doi.org/10.1016/j.amepre.2022.07.013
+
+Khor, S. N., Cheok, S. H. X., Sultana, R., & Tan, E. K. W. (2023). Incidence of incisional hernia after major colorectal cancer surgery & analysis of associated risk factors in Asian population: Is laparoscopy any better?. Asian Journal of Surgery, 46(1), 99-104.
+https://doi.org/10.1016/j.asjsur.2022.01.029
+
+Broder, E. D., Gallagher, J. H., Wikle, A. W., Welsh, G. T., Zonana, D. M., Firneno Jr, T. J., & Tinghitella, R. M. (2023). A well-studied parasitoid fly of field crickets uses multiple alternative hosts in its introduced range. Evolutionary Ecology, 1-16.
+https://doi.org/10.1007/s10682-022-10225-1
+
+Ashraf, M. T., Dey, K., & Mishra, S. (2023). Identification of high-risk roadway segments for wrong-way driving crash using rare event modeling and data augmentation techniques. Accident Analysis & Prevention, 181, 106933.
+https://doi.org/10.1016/j.aap.2022.106933
