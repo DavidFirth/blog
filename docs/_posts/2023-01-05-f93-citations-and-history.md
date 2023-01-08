@@ -86,18 +86,3 @@ Most of the applications seen in other disciplines have been in the context of b
 Firth, D (2023).  My best known work, fading citations and a bit of history.  Weblog entry at URL
 [https://DavidFirth.github.io/blog/2023/01/05/f93-citations-and-history/](/blog/2023/01/05/f93-citations-and-history/)
 
-<script src="https://giscus.app/client.js"
-        data-repo="davidfirth/blog"
-        data-repo-id="MDEwOlJlcG9zaXRvcnk0MDQwMzc1NjA="
-        data-category="Announcements"
-        data-category-id="DIC_kwDOGBUfuM4CTebI"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="dark"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>

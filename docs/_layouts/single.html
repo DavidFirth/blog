@@ -52,8 +52,25 @@ layout: default
         {% endif %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
 
+      
+<!--      {% if page.share %}{% include social-share.html %}{% endif %} -->
+<script src="https://giscus.app/client.js"
+        data-repo="davidfirth/blog"
+        data-repo-id="MDEwOlJlcG9zaXRvcnk0MDQwMzc1NjA="
+        data-category="Announcements"
+        data-category-id="DIC_kwDOGBUfuM4CTebI"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+      
       {% include post_pagination.html %}
     </div>
 
