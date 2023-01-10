@@ -80,7 +80,7 @@ Most of the applications seen in other disciplines have been in the context of b
 
 > Kosmidis, I & Firth, D (2021). Jeffreys-prior penalty, finiteness and shrinkage in binomial-response generalized linear models. [Biometrika, 108(1), 71--82](https://doi.org/10.1093/biomet/asaa052).
 
-And that brings us nicely back to citations.  Of the "non-citing" papers mentioned mentioned above, i.e., papers that use my 1993 method but don't cite the 1993 paper, most (perhaps all?) are applications of logistic regression for binary-response data.  And nowadays such applications really _should_ be citing the newer work Kosmidis & Firth (2021).  These things only happen very slowly of course, if at all.  I'm not going to hold my breath... 
+And that brings us nicely back to citations.  Of the "non-citing" publications, i.e., papers that use my 1993 method but don't cite the 1993 paper, most (perhaps all?) are applications of logistic regression for binary-response data.  And nowadays such applications really _should_ be citing the newer work Kosmidis & Firth (2021).  These things only happen very slowly of course, if at all.  I'm not going to hold my breath... 
 
 -----
 
