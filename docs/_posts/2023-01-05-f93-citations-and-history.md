@@ -7,7 +7,7 @@ categories:
 
 _This will be the second egocentric post in succession --- for which, apologies in advance!  (It's a sign of age, I suspect.)_
 
-This year will see the 30th anniversary of the publication of my most-cited research paper.  I'll write a few notes below (section 2) about the paper's history.  But first, to the main reason for this blog post: something that seems odd in the recent citation data.
+This year will see the 30th anniversary of the publication of my most-cited research paper, which developed a general method for bias reduction of maximum likelihood estimates.  I'll write a few notes below (section 2) about the paper's history.  But first, to the main reason for this blog post: something that seems odd in the recent citation data.
 
 # 1. Why does citation growth seem to be slowing?
 
@@ -30,7 +30,9 @@ Google Scholar records 7 citations of my 1993 paper so far, in the first 5 days 
 
 But a Google Scholar search for any papers whose text includes the words "Firth" and "logistic" finds 10 papers published in 2023 to date. All ten of those papers do indeed use the method that was developed in my 1993 paper.  But only two of the ten papers actually contain a citation to my published work (they both cite the 1993 paper, so they are included among the 7 mentioned above). The remaining eight papers are "non-citing": they all describe their use of "Firth's logistic regression" or "logistic regression with the Firth procedure" or suchlike, but with no reference provided to the published source of the method.
 
-(The 10 papers found in the just-mentioned search are listed here in [search-results.txt](/blog/assets/media/2023/01/search-results.txt), in case anyone is interested!)
+So, in this little exercise, fifteen distinct papers were found that used my method.  Seven of them cited my 1993 paper, and eight did not.
+
+(The ten papers that were found in the just-mentioned search are listed here in [search-results.txt](/blog/assets/media/2023/01/search-results.txt), in case anyone is interested!)
 
 ### Conclusion?
 
@@ -77,6 +79,8 @@ By 2012 my paper was being cited more than 100 times per year, which was both pl
 Most of the applications seen in other disciplines have been in the context of binary and multi-category regression models, especially logistic regression and multinomial-logit models.  This is unsurprising, given the existence of accessible works of advocacy such as the papers by Heinze & Schemper (2002) and by Zorn (2005), mentioned above.  In addition, logistic regressions (and similar) are a win-win context for estimation via the maximum penalized likelihood method of my paper.  Finite estimates are guaranteed; and importantly, bias reduction is always accompanied in such contexts by variance reduction --- so there is _no trade-off_ between bias and variance.  These features of the method had been known about for several years through empirical studies and informal arguments, and they are established more systematically in a relatively recent paper written jointly with Ioannis Kosmidis.
 
 > Kosmidis, I & Firth, D (2021). Jeffreys-prior penalty, finiteness and shrinkage in binomial-response generalized linear models. [Biometrika, 108(1), 71--82](https://doi.org/10.1093/biomet/asaa052).
+
+And that brings us nicely back to citations.  Of the "non-citing" papers mentioned mentioned above, i.e., papers that use my 1993 method but don't cite the 1993 paper, most (perhaps all?) are applications of logistic regression for binary-response data.  And nowadays such applications really _should_ be citing the newer work Kosmidis & Firth (2021).  These things only happen very slowly, though, if at all.  I'm not going to hold my breath... 
 
 -----
 
