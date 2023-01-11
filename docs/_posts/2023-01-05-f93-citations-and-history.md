@@ -38,7 +38,7 @@ To sum up this little data-collection exercise, then:
 
 ### Conclusion?
 
-It's a tiny amount of data that I have looked at here, but seemingly already enough to confirm what I had heard anecdotally at the recent conference: there appears to be plenty of published research that uses the method from my 1993 paper but without citing its source.  Indeed the evidence just presented, small as it is, suggests that non-citations possibly outnumber formal citations at present, among research papers that use the method.
+It's a tiny amount of data that I have looked at here, but seemingly already enough to confirm what I had heard anecdotally at the recent conference: there appears to be plenty of published research that uses the method from my 1993 paper but without citing its source.  Indeed the evidence just presented, small as it is, suggests that non-citations possibly outnumber formal citations at present.
 
 There could perhaps be an interesting project for a data-science student in all this? For example, to look at citations of the famous Cox 1972 paper and the extent to which formal citation gets _replaced_ by bare phrases such as "Cox proportional hazards model" or "Cox regression" or just "Cox model". Such a project would demand/develop substantial skill in text processing, I think, and it might present some difficulties in terms of automated access to published works.  But it could perhaps reveal some interesting patterns? (and similar patterns might even be found in other disciplines too?)
 
