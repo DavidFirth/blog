@@ -30,9 +30,11 @@ Google Scholar records 7 citations of my 1993 paper so far, in the first 5 days 
 
 But a Google Scholar search for any papers whose text includes the words "Firth" and "logistic" finds 10 papers published in 2023 to date. All ten of those papers do indeed use the method that was developed in my 1993 paper.  But only two of the ten papers actually contain a citation to my published work (they both cite the 1993 paper, so they are included among the 7 mentioned above). The remaining eight papers are "non-citing": they all describe their use of "Firth's logistic regression" or "logistic regression with the Firth procedure" or suchlike, but with no reference provided to the published source of the method.
 
-So, in this little exercise, fifteen distinct papers were found that used my method.  Seven of them cited my 1993 paper, and eight did not.
-
 (The ten papers that were found in the just-mentioned search are listed here in [search-results.txt](/blog/assets/media/2023/01/search-results.txt), in case anyone is interested!)
+
+To sum up this little data-collection exercise, then: 
+- in total fifteen distinct papers were found that used my method;
+- seven of them cited my 1993 paper, and eight did not.
 
 ### Conclusion?
 
