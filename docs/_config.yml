@@ -106,7 +106,7 @@ author:
   bio              : "Researcher in Statistics"
   location         : # "Warwick, UK"
   email            : # d.firth@warwick.ac.uk
-  twitter          : "firthstat"
+  twitter          : # "firthstat"
   github           : "DavidFirth"
   links:
     - # label: "Email"
@@ -130,6 +130,9 @@ author:
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-0302-2312"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://fediscience.org/firthstat"
       
 # Site Footer
 footer:
