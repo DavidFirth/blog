@@ -132,7 +132,7 @@ author:
       url: "https://orcid.org/0000-0003-0302-2312"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://fediscience.org/firthstat"
+      url: "https://fediscience.org/@firthstat"
       
 # Site Footer
 footer:
