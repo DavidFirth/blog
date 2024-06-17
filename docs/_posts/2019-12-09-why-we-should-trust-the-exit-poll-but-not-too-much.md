@@ -28,7 +28,9 @@ But **the main point here** is this: While better methodology has radically impr
 
 -----
 
-**Update, 14 December 2019** In the text above, written before the election on 12 December, I wrote:
+**Update, 14 December 2019** 
+
+In the text above, written before the election on 12 December, I wrote:
 
 <blockquote>
 ...the exit poll ought to be expected to predict with an error in roughly the 5–15 seats range (for the main parties). Sometimes the error will be smaller than that (as seen in 2005, 2010 and 2017)...
