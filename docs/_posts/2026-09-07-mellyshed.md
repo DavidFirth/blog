@@ -20,7 +20,7 @@ For each of the competition schedules discussed below, randomization comes from 
 
 # 2. 'Perfectly social' schedules (_n_=16, or _n_ at least 20).
 
-I will call a schedule 'perfectly social' if no player meets any other more than once (either as partner or opponent) across all rounds played.  It turns out that such a schedule, with at least 3 rounds, is possible only when _n_ is either 16 or at least 20.  No such schedule is possible when $n$ is less than 16, nor when _n_ is 17, 18 or 19.
+I will call a schedule 'perfectly social' if no player meets any other more than once (either as partner or opponent) across all rounds played.  It turns out that such a schedule, with at least 3 rounds, is possible only when _n_ is either 16 or at least 20.  No such schedule is possible when _n_ is less than 16, nor when _n_ is 17, 18 or 19.
 
 The starting-point for the schedules that I provide here is recent work by Prof. Alice Miller's research group at the University of Glasgow, on the 'social golfer problem':
 
