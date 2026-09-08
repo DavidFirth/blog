@@ -9,7 +9,7 @@ I play pétanque, the French boules game. This year I have enjoyed playing in a 
 
 In the competitions where I have played, I found that I was sometimes meeting the same person twice (either as partner or opponent or both).  It struck me that this could be avoided by using a suitably designed schedule for the competition, while still keeping things nicely random.  The purpose of this post is to provide such schedules.
 
-The mêlée competitions I have entered had mainly doubles games (random pair versus random pair), with an occasional hybrid game (random pair versus random triple) when the total number of players entered is not a multiple of 4.  I will focus here on competitions of that kind.  (There will be just one exception below, which is the schedule for a 3-round mêlée with just 6 players.)
+The mêlée competitions I have entered had mainly doubles games (random pair versus random pair), with an occasional hybrid game (random pair versus random triple) when the total number of players entered is not a multiple of 4.  I will focus here on competitions of that kind.  (There will be just one exception below, which is the schedule for a 4-round mêlée with just 6 players.)
 
 # 1. Randomization
 
