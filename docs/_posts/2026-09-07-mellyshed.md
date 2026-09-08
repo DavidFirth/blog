@@ -28,7 +28,7 @@ The starting-point for the schedules that I provide here is recent work by Prof.
 
 That work is accompanied by an online tool, [BoRAT](https://alicemiller2.github.io/borat_git_pages), and it is the output from that tool that I adapt here for pétanque mêlée competitions with 'mainly pairs' games.  The adaptations needed are all connected with the inclusion of one or more triples teams when _n_ is not a multiple of 4 --- in particular, to adjust each schedule so that individual players do not appear in a triple more often than is necessary. My schedules allow for a maximum of 6 rounds of play.
 
-I will tabulate here some properties of each schedule, up to _n_=67 players.  (My club has 16 pistes, so 67 is the largest number of players that can be accommodated there without including some triple-versus-triple games.)  The properties tabulated are: 
+I will tabulate here some properties of each schedule, up to _n_=67 players.  The properties tabulated are: 
 
 - the number of pistes required 
 - the number _Rmax_ of 'perfectly social' rounds possible (up to 6)
@@ -116,6 +116,7 @@ The 4-round schedule that is provided for a 6-player mêlée has the property th
 
 The full set of schedules described above can be downloaded as a single zip file at [mellyshed.zip](/blog/assets/mellyshed.zip).  The files are human-readable Python code (with player numbers starting always at zero.)  I can easily export the schedules to other formats: if you have a need for a different format, then please specify exactly what format and I will try to make that available.
 
+In addition the individual schedules are all listed [here](/blog/assets/mellyshed), for viewing online without downloading the zip file.
 
 **To cite this entry:**
 Firth, D (2026).  Schedules for 'perfectly social' pétanque club mêlée competitions.  Weblog entry at URL
