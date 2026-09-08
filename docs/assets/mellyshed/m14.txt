@@ -1,0 +1,28 @@
+# No player partners any other more than once, and no player opposes any other more than once.
+#
+# Only 3 rounds are possible.
+#
+# This was made just by adding two extra players onto m12.  
+# It has the drawback that the extra players (12 and 13 below) are always in triple teams.  This might
+# actually be avoidable, but I have not bothered to search for a better solution. 
+
+m14 = [
+# Round 1:
+	[
+		[[0, 1], [2, 3, 12]],
+		[[4, 5], [6, 7, 13]],
+		[[8, 9], [10, 11]]
+	],
+# Round 2:
+	[
+		[[0, 2], [4, 6]],
+		[[12, 1, 5], [9, 10]],
+		[[13, 8, 11], [3, 7]]
+	],
+# Round 3:
+	[
+		[[13, 0, 5], [1, 8]],
+		[[2, 4], [3, 9]],
+		[[12, 10, 6], [11, 7]]
+	]
+]

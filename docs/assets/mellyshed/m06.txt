@@ -1,0 +1,19 @@
+# Six players: Four rounds of a triples game.
+#
+# Each player partners 4 of the other players twice, and does not partner the remaining player at all.
+#
+# (Potentially useful when the 6 players arrive as 3 couples?  It can then be arranged that players in
+# a couple are never in the same team.)
+#
+# In the below: 0 never partners 1, 2 never partners 3, and 4 never partners 5.
+
+m06 = [
+# Round 1:
+	[[0, 5, 2], [3, 4, 1]],
+# Round 2:
+	[[0, 5, 3], [2, 4, 1]],
+# Round 3:
+	[[0, 3, 4], [5, 2, 1]],
+# Round 4:
+	[[0, 2, 4], [5, 3, 1]]	
+]
